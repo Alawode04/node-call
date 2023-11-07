@@ -1,0 +1,15 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "hello node server app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Purity",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "nodemailer": "^6.9.7"
+  }
+}
